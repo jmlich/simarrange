@@ -142,4 +142,4 @@ brew install argtable
 brew install opencv
 ```
 
-and then run the Makefile script included with simarrange to compile the program.
+and then run make included with simarrange to compile the program.
